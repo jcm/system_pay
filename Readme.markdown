@@ -12,7 +12,9 @@ SystemPay is a gem to ease credit card payment with Natixis Paiements / Cyberplu
 or, in your Gemfile
 
     gem 'system_pay'
-    
+
+You can use it with rails 3 or rails 4.
+
 ## USAGE
 
    Create a config yml data file to store your site_id and certificates values:
